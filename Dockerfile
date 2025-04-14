@@ -1,1 +1,1 @@
-from k8s.gcr.io/kafka:v3.5
+from k8s.gcr.io/etdc:v3.3.17
