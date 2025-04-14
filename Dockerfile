@@ -1,1 +1,1 @@
-from etdc:v3.3.17
+from etcd:v3.3.17
