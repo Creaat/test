@@ -1,1 +1,1 @@
-from k8s.gcr.io/etdc:v3.3.17
+from etdc:v3.3.17
